@@ -7,18 +7,6 @@ Add tasks, mark them complete/incomplete, and delete them — all in a modern da
 
 ---
 
-## 📁 Project Structure
-📂 src
- -App.jsx
- -main.jsx
- -components
-   ├── TodoInput.jsx
-   ├── TodoItem.jsx
-   └── TodoList.jsx
- -index.css
-
----
-
 ## ✨ Features
 
 - Add new tasks
