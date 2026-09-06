@@ -1,8 +1,8 @@
 # summer-school-online-day-6
 
-# 📝 React To-Do List App
+# 📝 React To-Do List
 
-A simple, clean **To-Do List App** built with **React** and **Vite**.  
+A simple, clean **To-Do List** built with **React** and **Vite**.  
 Add tasks, mark them complete/incomplete, and delete them — all in a modern dark theme with an emerald green accent.
 
 ---
